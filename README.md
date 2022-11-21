@@ -1,0 +1,61 @@
+# Frontend Mentor - Product Preview Card Component
+
+This is a solution to the [Product Preview Card Component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+## Table of contents
+
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+  - [My process](#my-process)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+  - [Author](#author)
+
+## Overview
+
+### The challenge
+
+- Build out order summary card component and get it looking as close to the design as possible
+- Users should be able to view the optimal layout depending on their device's screen size.
+- Users should be able to see hover and focus states for interactive elements.
+
+### Screenshot
+
+![PC View](https://github.com/atif-dev/order-summary-card/blob/main/screenshot.png)
+
+### Links
+
+- Frontend Mentor solution url:  https://github.com/atif-dev/order-summary-card
+- Live Site URL: https://atif-dev.github.io/order-summary-card/
+- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=9ZCeJWWtUoYyrsriov4lFg
+
+## My process
+
+  - Use existing knowledge.
+  - Explore CSS over Internet according to need.
+  - Used Responsively desktop app for responsiveness of some screens.
+  - Made responsive for folling screens:
+  375 * 812
+  1280 * 950
+  720 * 1280
+  1366 * 768
+  1440 * 900
+  1920 * 1080
+  1920 * 1200
+
+### Continued development
+
+This was my second challenge. Will complete more frontendmentor challenges... 
+
+### Useful resources
+
+- [SEO Consultancy](https://www.hobo-web.co.uk/best-screen-size/) - Nice article to find different screen standards. 
+- [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) - This is nice short course for learning responsiveness.
+
+## Author
+
+- Twitter - [@atif_devs](https://twitter.com/atif_devs)
+
+----**Have fun building!** 🚀----
