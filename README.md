@@ -28,7 +28,7 @@ This is a solution to the [Product Preview Card Component](https://www.frontendm
 
 ### Links
 
-- Frontend Mentor solution url:  https://github.com/atif-dev/order-summary-card
+- Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/used-my-existing-knowledge-and-internet-7soeyTjfzg
 - Live Site URL: https://atif-dev.github.io/productPreview_CardComponent/
 - GitHub repo : https://github.com/atif-dev/productPreview_CardComponent
 
