@@ -21,7 +21,7 @@ This is a solution to the [Product Preview Card Component](https://www.frontendm
 - Users should be able to view the optimal layout depending on their device's screen size.
 - Users should be able to see hover and focus states for interactive elements.
 
-### Screenshot
+### Screenshots
 
 ![PC View](https://github.com/atif-dev/productPreview_CardComponent/blob/main/Desktop(1440%20by%20900).jpg?raw=true)
 ![Mobile view][https://github.com/atif-dev/productPreview_CardComponent/blob/main/Mobile(375%20by%20812%20).jpg?raw=true]
@@ -29,8 +29,8 @@ This is a solution to the [Product Preview Card Component](https://www.frontendm
 ### Links
 
 - Frontend Mentor solution url:  https://github.com/atif-dev/order-summary-card
-- Live Site URL: https://atif-dev.github.io/order-summary-card/
-- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=9ZCeJWWtUoYyrsriov4lFg
+- Live Site URL: https://atif-dev.github.io/productPreview_CardComponent/
+- GitHub repo : https://github.com/atif-dev/productPreview_CardComponent
 
 ## My process
 
