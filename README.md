@@ -24,7 +24,7 @@ This is a solution to the [Product Preview Card Component](https://www.frontendm
 ### Screenshots
 
 ![PC View](https://github.com/atif-dev/productPreview_CardComponent/blob/main/Desktop(1440%20by%20900).jpg?raw=true)
-![Mobile view][https://github.com/atif-dev/productPreview_CardComponent/blob/main/Mobile(375%20by%20812%20).jpg?raw=true]
+![Mobile view](https://github.com/atif-dev/productPreview_CardComponent/blob/main/Mobile(375%20by%20812%20).jpg?raw=true)
 
 ### Links
 
