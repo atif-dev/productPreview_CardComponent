@@ -38,13 +38,13 @@ This is a solution to the [Product Preview Card Component](https://www.frontendm
   - Explore CSS over Internet according to need.
   - Used Responsively desktop app for responsiveness of some screens.
   - Made responsive for following screens:
-	  - [x] #375 * 812
-	  - [x] #1280 * 950
-	  - [x] #720 * 1280
-	  - [x] #1366 * 768
-	  - [x] #1440 * 900
-	  - [x] #1920 * 1080
-	  - [x] #1920 * 1200
+	  - [x] 375 * 812
+	  - [x] 1280 * 950
+	  - [x] 720 * 1280
+	  - [x] 1366 * 768
+	  - [x] 1440 * 900
+	  - [x] 1920 * 1080
+	  - [x] 1920 * 1200
 
 ### Continued development
 
