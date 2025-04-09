@@ -6,33 +6,43 @@
 
   <link rel="icon" type="image/png" sizes="32x32" href="./images/favicon-32x32.png">
   <link rel="stylesheet" type="text/css" href="style.css">
-  
+
   <title>Frontend Mentor | Product preview card component</title>
 
+  <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->
+  <!-- <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style> -->
 </head>
 <body>
-<main class="ext-cont">
-  <div class="container">
-    <div class="item"><img src="images/image-product-desktop.jpg" alt="perfume"></div>
-    <div class="cont-child">
-      <div class="item1">PERFUME</div>
-      <div class="item2"><p>Gabrielle Essence Eau De Parfum</p></div>
-      <div class="item3">
-        <p>A floral, solar and voluptuous interpretation composed by Olivier Polge, 
-            Perfumer-Creator for the House of CHANEL.</p>
-      </div>
-      <div class="item4"><span class="big-num">$149.99</span><span class="small-num"><s>$169.99</s></span></div>
-      <div class="last-item"><button class="item5"><img class="cart" src="images/icon-cart.svg" alt="cart-icon"><span class="cart btn-txt">Add to Cart</span></button></div>
+  <main>
+    <div>
+      <img class="perfume-img" src="images/image-product-desktop.jpg" alt="Gabrielle Essence Eau De Parfum bottle">
+      <img class="perfume-img-mobile" src="images/image-product-mobile.jpg" alt="Product image">
     </div>
-  </div>
-<footer>
-  <div class="attribution">
-    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
-    Coded by <a href="https://twitter.com/atif_devs">Atif Iqbal</a>.
-  </div>
-</footer>
-</main>
+    <div>
+      <section>
+      <h5>Perfume</h5>
 
-  
+      <h1>Gabrielle Essence Eau De Parfum</h1>
+      <p class="description">A floral, solar and voluptuous interpretation composed by Olivier Polge, 
+      Perfumer-Creator for the House of CHANEL.</p>
+
+      <p class="prices"> 
+        <span class="discount">$149.99</span>
+        <span class="price">$169.99</span>
+      </p>
+
+      <button><img src="images/icon-cart.svg" alt="Add to cart icon">Add to Cart</button>
+    </section>
+    </div>
+    
+  </main>
+
+  <!-- <div class="attribution">
+    Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+    Coded by <a href="#">Your Name Here</a>.
+  </div> -->
 </body>
 </html>

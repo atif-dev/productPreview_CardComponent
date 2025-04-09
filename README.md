@@ -1,6 +1,10 @@
-# Frontend Mentor - Product Preview Card Component
+# Frontend Mentor - Product preview card component
 
-This is a solution to the [Product Preview Card Component](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+
+## Welcome! 👋
+
+This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -17,46 +21,43 @@ This is a solution to the [Product Preview Card Component](https://www.frontendm
 
 ### The challenge
 
-- Build out Product Preview Card Component and get it looking as close to the design as possible
-- Users should be able to view the optimal layout depending on their device's screen size.
-- Users should be able to see hover and focus states for interactive elements.
+- Build out Product preview card component and get it looking as close to the design as possible.
+- View the optimal layout for the app depending on their device's screen size.
+- See hover and focus states for all interactive elements on the page.
 
 ### Screenshots
 
-![PC View](https://github.com/atif-dev/productPreview_CardComponent/blob/main/Desktop(1440%20by%20900).jpg?raw=true)
-![Mobile view](https://github.com/atif-dev/productPreview_CardComponent/blob/main/Mobile(375%20by%20812%20).jpg?raw=true)
+![PC View]()
+![Mobile view]()
 
 ### Links
 
-- Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/used-my-existing-knowledge-and-internet-7soeyTjfzg
-- Live Site URL: https://atif-dev.github.io/productPreview_CardComponent/
-- GitHub repo : https://github.com/atif-dev/productPreview_CardComponent
+- Frontend Mentor solution url: 
+- GitHub repo : 
+- Live Site URL:
 
 ## My process
 
-  - Use existing knowledge.
-  - Explore CSS over Internet according to need.
-  - Used Responsively desktop app for responsiveness of some screens.
-  - Made responsive for following screens:
-	  - [x] 375 * 812
-	  - [x] 1280 * 950
-	  - [x] 720 * 1280
-	  - [x] 1366 * 768
-	  - [x] 1440 * 900
-	  - [x] 1920 * 1080
-	  - [x] 1920 * 1200
-
+  - Built with HTML Semantic Elements.
+  - Checked Responsiveness for multiple devices using LT Browser.
+  - Checkeed Responsiveness for physical android device using: chrome://inspect/#devices
+    
 ### Continued development
 
-This was my second challenge. Will complete more frontendmentor challenges... 
+  Will complete more frontendmentor challenges.
 
 ### Useful resources
 
-- [SEO Consultancy](https://www.hobo-web.co.uk/best-screen-size/) - Nice article to find different screen standards. 
-- [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) - This is nice short course for learning responsiveness.
+- [CSS flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - Nice visual representation to understand CSS flexbox 
+- [Conquering Responsive Layouts](https://courses.kevinpowell.co/conquering-responsive-layouts) - This is nice short free course for learning responsiveness.
+- [Check responsiveness](https://www.lambdatest.com/mobile-view-website) - NICE website for checking responsiveness and taking good looking screen shots.
+- [Learn Resposiveness](https://web.dev/learn/design/) - Find about responsiveness.
+- [Learn centering in css](https://moderncss.dev/complete-guide-to-centering-in-css/) - Learn different possible ways for centering CSS.
+- [ChatGPT](https://chat.openai.com/) - Nice for getting help and getting solutions related to code.
+
 
 ## Author
 
-- Twitter - [@atif_devs](https://twitter.com/atif_devs)
+- [atif_devs @ Frontendmentor](https://www.frontendmentor.io/profile/atif-dev)
 
-----**Have fun building!** 🚀----
+**Have fun building!** 🚀
