@@ -27,14 +27,14 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshots
 
-![PC View]()
-![Mobile view]()
+![PC View](https://github.com/atif-dev/productPreview_CardComponent/blob/main/screenshots/Screen(1440%20by%20900).png?raw=true)
+![Mobile view](https://github.com/atif-dev/productPreview_CardComponent/blob/main/screenshots/iPhone%2015%20Pro%20Max.png?raw=true)
 
 ### Links
 
 - Frontend Mentor solution url: 
-- GitHub repo : 
-- Live Site URL:
+- GitHub repo : https://github.com/atif-dev/productPreview_CardComponent/
+- Live Site URL: https://atif-dev.github.io/productPreview_CardComponent/
 
 ## My process
 
