@@ -32,7 +32,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Frontend Mentor solution url: 
+- Frontend Mentor solution url: https://www.frontendmentor.io/solutions/used-my-existing-knowledge-and-internet-7soeyTjfzg/
 - GitHub repo : https://github.com/atif-dev/productPreview_CardComponent/
 - Live Site URL: https://atif-dev.github.io/productPreview_CardComponent/
 
